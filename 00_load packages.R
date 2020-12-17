@@ -1,0 +1,21 @@
+#### Load Packages
+setwd("C:/Users/glascottl/OneDrive - Tabcorp/Documents/R/Model data/aleague/")
+
+library(jsonlite)
+library(RCurl)
+library(rvest)
+library(httr)
+
+library(readxl)
+library(fitzRoy)
+library(kableExtra)
+library(lubridate)
+library(bomrang)
+library(zoo)
+library(elo)
+library(rvest)
+library(tidyverse)
+library(caret)
+library(jsonlite)
+library(magrittr)
+library(bomrang)
